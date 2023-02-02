@@ -14,7 +14,7 @@ public partial class Form1 : Form
         _attractors = InitAttractors();
         Controls.Add(_canvas);
         _canvas.BackColor = Color.Black;
-        //DrawAttractors();
+        DrawAttractors();
     }
 
 

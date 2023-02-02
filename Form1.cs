@@ -13,7 +13,6 @@ public partial class Form1 : Form
         Height = 400;
         _attractors = InitAttractors();
         Controls.Add(_canvas);
-        //Controls.Dock = DockStyle.Bottom;
         _canvas.BackColor = Color.Black;
         //DrawAttractors();
     }

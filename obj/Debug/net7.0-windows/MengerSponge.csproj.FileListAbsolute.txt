@@ -1,0 +1,15 @@
+C:\Users\Elève\RiderProjects\MengerSponge\MengerSponge\bin\Debug\net7.0-windows\MengerSponge.exe
+C:\Users\Elève\RiderProjects\MengerSponge\MengerSponge\bin\Debug\net7.0-windows\MengerSponge.deps.json
+C:\Users\Elève\RiderProjects\MengerSponge\MengerSponge\bin\Debug\net7.0-windows\MengerSponge.runtimeconfig.json
+C:\Users\Elève\RiderProjects\MengerSponge\MengerSponge\bin\Debug\net7.0-windows\MengerSponge.dll
+C:\Users\Elève\RiderProjects\MengerSponge\MengerSponge\bin\Debug\net7.0-windows\MengerSponge.pdb
+C:\Users\Elève\RiderProjects\MengerSponge\MengerSponge\obj\Debug\net7.0-windows\MengerSponge.csproj.AssemblyReference.cache
+C:\Users\Elève\RiderProjects\MengerSponge\MengerSponge\obj\Debug\net7.0-windows\MengerSponge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elève\RiderProjects\MengerSponge\MengerSponge\obj\Debug\net7.0-windows\MengerSponge.AssemblyInfoInputs.cache
+C:\Users\Elève\RiderProjects\MengerSponge\MengerSponge\obj\Debug\net7.0-windows\MengerSponge.AssemblyInfo.cs
+C:\Users\Elève\RiderProjects\MengerSponge\MengerSponge\obj\Debug\net7.0-windows\MengerSponge.csproj.CoreCompileInputs.cache
+C:\Users\Elève\RiderProjects\MengerSponge\MengerSponge\obj\Debug\net7.0-windows\MengerSponge.dll
+C:\Users\Elève\RiderProjects\MengerSponge\MengerSponge\obj\Debug\net7.0-windows\refint\MengerSponge.dll
+C:\Users\Elève\RiderProjects\MengerSponge\MengerSponge\obj\Debug\net7.0-windows\MengerSponge.pdb
+C:\Users\Elève\RiderProjects\MengerSponge\MengerSponge\obj\Debug\net7.0-windows\MengerSponge.genruntimeconfig.cache
+C:\Users\Elève\RiderProjects\MengerSponge\MengerSponge\obj\Debug\net7.0-windows\ref\MengerSponge.dll

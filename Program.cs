@@ -15,7 +15,6 @@ static class Program
     static void Main()
     {
         AttachConsole(ATTACH_PARENT_PROCESS);
-        Console.WriteLine("Console");
         ApplicationConfiguration.Initialize();
         Application.Run(new Form1());
     }

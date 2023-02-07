@@ -31,7 +31,7 @@ public partial class Form1 : Form
         var brush = new SolidBrush(Color.White);
         var previousPoint = new Point(
             (int) random.NextInt64() % Width, 
-            (int) random.NextInt64() % Height);;
+            (int) random.NextInt64() % Height);
 
         for (var i = 0; i < 100000; i++)
         {
@@ -50,7 +50,6 @@ public partial class Form1 : Form
 
     private Point[] InitAttractors()
     {
-        //int centeringX, centeringY;
         var squareWidth = Width < Height ? Width : Height;
         
         Point[] points =

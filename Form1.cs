@@ -40,8 +40,11 @@ public partial class Form1 : Form
             var vector = new Vector2(
                 attractor.X - previousPoint.X, 
                 attractor.Y - previousPoint.Y);
+
+            var x = (int)(previousPoint.X + vector.X / 3 * 2);
+            var y = (int)(previousPoint.Y + vector.Y / 3 * 2);
             
-            var nextPoint = new Point((int) (vector.X * 2/3), (int) (vector.Y * 2/3));
+            var nextPoint = new Point(x, y);
             g.FillRectangle(brush, nextPoint.X, nextPoint.Y, 1, 1);
             previousPoint = nextPoint;
         }

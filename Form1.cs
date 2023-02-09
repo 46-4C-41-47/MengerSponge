@@ -6,11 +6,14 @@ public partial class Form1 : Form
 {
     private static readonly Color BackgroundColor = Color.Black;
     private static readonly Color CarpetColor = Color.White;
+    
     private const int Iterations = 200000;
-    private readonly int _xOffset, _yOffset;
-    private readonly Size _carpetSize = new (400, 400);
-    private readonly Panel _canvas = new ();
+    
+    private readonly int     _xOffset, _yOffset;
     private readonly Point[] _attractors;
+    private readonly Size    _carpetSize = new (400, 400);
+    private readonly Panel   _canvas     = new ();
+    
     
     public Form1()
     {

@@ -24,7 +24,7 @@ public partial class Form1 : Form
         Height = 600;
         _attractors = InitAttractors();
 
-        _xOffset = (Width - _carpetSize.Width) / 2;
+        _xOffset = (Width  - _carpetSize.Width)  / 2;
         _yOffset = (Height - _carpetSize.Height) / 2;
         
         Controls.Add(_canvas);
